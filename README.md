@@ -9,7 +9,7 @@
 
 ``` bash
 git clone https://github.com/orzxlee/resume.git
-cd anires
+cd resume
 npm install
 npm run dev
 ```
